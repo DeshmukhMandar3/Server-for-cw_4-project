@@ -1,0 +1,15 @@
+{
+  "name": "backend_cw_4",
+  "version": "1.0.0",
+  "description": "backend for CW4 project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Mandar",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
